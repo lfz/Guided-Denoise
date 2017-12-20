@@ -16,7 +16,7 @@ The winning submission for NIPS 2017: Defense Against Adversarial Attack of team
 
 * Advset: the adversarial images
 
-* checkpoints: the models checkpoint used, download [here](https://www.dropbox.com/sh/qc1zi07lcj39m0e/AAATa-tDZ5Uh1DW-mUr-RHs9a?dl=0)
+* checkpoints: the models checkpoint used, download [here](https://pan.baidu.com/s/1kVzP9nL)
 
 * Exps: the defense model
 
