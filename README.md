@@ -2,7 +2,7 @@
 The winning submission for NIPS 2017: Defense Against Adversarial Attack of team TSAIL
 
 # Paper 
-https://arxiv.org/abs/1712.02976
+[Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser](https://arxiv.org/abs/1712.02976)
 
 # Description
 
@@ -16,7 +16,7 @@ https://arxiv.org/abs/1712.02976
 
 * Advset: the adversarial images
 
-* checkpoints: the models checkpoint used 
+* checkpoints: the models checkpoint used, download [here](https://www.dropbox.com/sh/qc1zi07lcj39m0e/AAATa-tDZ5Uh1DW-mUr-RHs9a?dl=0)
 
 * Exps: the defense model
 
