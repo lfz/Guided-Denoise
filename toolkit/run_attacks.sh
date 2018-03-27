@@ -10,7 +10,7 @@ SSD_DIR="${SCRIPT_DIR}"
 ATTACKS_DIR="${parentdir}/Attackset"
 TARGETED_ATTACKS_DIR="${SCRIPT_DIR}/sample_targeted_attacks_temp"
 DEFENSES_DIR="${SCRIPT_DIR}/sample_defenses_temp"
-DATASET_DIR="${parentdir}/Originset_test"
+DATASET_DIR="${parentdir}/Originset"
 DATASET_METADATA_FILE="${parentdir}/dev_dataset.csv"
 MAX_EPSILON=16
 
@@ -29,7 +29,7 @@ python "${SCRIPT_DIR}/run_attacks.py" \
   --output_dir="${WORKING_DIR}/output_dir${SETID}" \
   --epsilon="${MAX_EPSILON}" \
   --save_all_classification \
-  --models=rev_fgsm_v3 \
+  --models=all \
   --gpu \
   --use_existing 0 \
   --gpuid="${GPUID}" \
